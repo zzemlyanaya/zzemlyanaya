@@ -1,4 +1,6 @@
-![My bio](messagif.gif)
+<p align="center">
+  <img src="messagif.gif" />
+</p>
 
 ### Hi there from Ekaterinburg 👋
 Welcome to my GitHub! I like to create things and explore stuff :milky_way:. I write code and words which turn into apps and textes :computer: <p>
