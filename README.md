@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="messagif.gif" />
-</p>
+![nice to meet you!](./messagif.gif)
 
 ### Hi there from Ekaterinburg 👋
 Welcome to my GitHub! I like to create things and explore stuff :milky_way:. I write code and words which turn into apps and textes :computer: <p>
