@@ -6,4 +6,5 @@ Welcome to my GitHub! I like to create things and explore stuff :milky_way:. I w
 ## Find me here: 
 * [Dev](https://dev.to/zzemlyanaya)
 * [Telegram](https://t.me/zzemlyanaya)
+* [Habr](https://habr.com/ru/users/zemlan)
 * or search @zzemlyanaya 'cause I may use this platform too )
