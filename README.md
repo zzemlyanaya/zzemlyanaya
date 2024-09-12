@@ -1,10 +1,11 @@
 ![nice to meet you!](./messagif.gif)
 
-### Hi there from Ekaterinburg 👋
-Welcome to my GitHub! I like to create things and explore stuff :milky_way:. I write code and words which turn into apps and textes :computer: <p>
+## Hi there from Ekaterinburg 👋
+Welcome to my GitHub! I like to create and explore :milky_way: Currently a student @ UrFU & senior android dev @ SKB Lab. 
   
-## Find me here: 
-* [Dev](https://dev.to/zzemlyanaya)
+### Find me here: 
+* [StackOverflow](https://stackoverflow.com/users/11209741/zzemlyanaya)
 * [Telegram](https://t.me/zzemlyanaya)
-* [Habr](https://habr.com/ru/users/zemlan)
-* or search @zzemlyanaya 'cause I may use this platform too )
+* [Habr Career](https://career.habr.com/zzemlyanaya)
+
+Speak with me in РУС, ENG or 中文 :D
